@@ -1,0 +1,8 @@
+resource {
+    key: uuid
+    img: src="https://img.youtube.com/vi/[insert-vid-id]/sddefault.jpg"
+    link:
+    title: 
+    tags: css
+    resourceType: article,video
+}
